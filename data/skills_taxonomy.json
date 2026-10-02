@@ -1,0 +1,76 @@
+{
+  "categories": {
+    "programming_languages": [
+      "Python", "Java", "C++", "C#", "C", "JavaScript", "TypeScript", "Go", "Golang", "Rust",
+      "Ruby", "PHP", "Kotlin", "Swift", "Scala", "R", "Dart", "Julia", "Perl", "Bash", "Shell",
+      "PowerShell", "SQL", "HTML5", "CSS3", "Sass", "GraphQL"
+    ],
+    "frameworks_and_libraries": [
+      "FastAPI", "Flask", "Django", "React", "React.js", "Node.js", "Express.js", "Angular",
+      "Vue.js", "Next.js", "Nuxt.js", "Spring Boot", "ASP.NET Core", "Ruby on Rails", "Laravel",
+      "PyTorch", "TensorFlow", "Keras", "Scikit-Learn", "Hugging Face", "Transformers", "OpenCV",
+      "Pandas", "NumPy", "SciPy", "Matplotlib", "Seaborn", "Plotly", "Streamlit", "Gradio",
+      "SpaCy", "NLTK", "LangChain", "LlamaIndex", "Tailwind CSS", "Bootstrap", "Redux"
+    ],
+    "cloud_and_devops": [
+      "AWS", "Amazon Web Services", "Azure", "Microsoft Azure", "GCP", "Google Cloud Platform",
+      "Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins", "GitHub Actions", "GitLab CI",
+      "CircleCI", "ArgoCD", "Prometheus", "Grafana", "Helm", "CloudFormation", "OpenShift",
+      "Serverless", "AWS Lambda", "ECS", "EKS", "GKE", "AKS", "Nginx", "Linux", "Ubuntu"
+    ],
+    "databases_and_big_data": [
+      "PostgreSQL", "MySQL", "SQLite", "MongoDB", "Redis", "Cassandra", "Elasticsearch",
+      "Neo4j", "DynamoDB", "Snowflake", "Databricks", "Apache Spark", "PySpark", "Kafka",
+      "Apache Flink", "Airflow", "Apache Kafka", "BigQuery", "Redshift", "Hadoop", "Hive"
+    ],
+    "ai_and_data_science": [
+      "Machine Learning", "Deep Learning", "Natural Language Processing", "NLP", "Computer Vision",
+      "Large Language Models", "LLM", "Prompt Engineering", "RAG", "Retrieval-Augmented Generation",
+      "Reinforcement Learning", "Time Series Analysis", "Predictive Modeling", "Feature Engineering",
+      "Hyperparameter Tuning", "A/B Testing", "Statistical Analysis", "Data Cleaning",
+      "Vector Databases", "ChromaDB", "Pinecone", "Milvus", "FAISS", "BERT", "Word2Vec", "TF-IDF"
+    ],
+    "tools_and_practices": [
+      "Git", "GitHub", "GitLab", "Bitbucket", "Jira", "Confluence", "Postman", "Swagger", "OpenAPI",
+      "REST API", "RESTful APIs", "gRPC", "Microservices", "CI/CD", "TDD", "Test-Driven Development",
+      "Agile", "Scrum", "Kanban", "Design Patterns", "Clean Code", "Unit Testing", "PyTest"
+    ],
+    "soft_skills": [
+      "Leadership", "Communication", "Problem Solving", "Collaboration", "Teamwork",
+      "Time Management", "Critical Thinking", "Adaptability", "Mentorship", "Project Management",
+      "Stakeholder Management", "Analytical Thinking", "Cross-Functional Collaboration", "Ownership"
+    ],
+    "certifications": [
+      "AWS Certified Solutions Architect", "AWS Certified Developer", "AWS Certified Machine Learning",
+      "AWS Certified Cloud Practitioner", "Google Cloud Professional Data Engineer",
+      "Google Cloud Professional Cloud Architect", "Azure Solutions Architect Expert",
+      "Azure AI Engineer Associate", "Azure Data Scientist Associate", "Certified Kubernetes Administrator (CKA)",
+      "Certified Kubernetes Application Developer (CKAD)", "PMP", "Project Management Professional",
+      "Scrum Master", "CSM", "TensorFlow Developer Certificate", "HashiCorp Certified Terraform Associate"
+    ],
+    "education_degrees": [
+      "PhD", "Doctor of Philosophy", "Ph.D.",
+      "Master of Science", "MS", "M.S.", "M.Sc.", "Master of Technology", "M.Tech", "MBA", "MCA",
+      "Bachelor of Science", "BS", "B.S.", "B.Sc.", "Bachelor of Technology", "B.Tech",
+      "Bachelor of Engineering", "B.E.", "BCA", "Associate Degree", "Diploma"
+    ]
+  },
+  "aliases": {
+    "golang": "Go",
+    "py": "Python",
+    "js": "JavaScript",
+    "ts": "TypeScript",
+    "postgres": "PostgreSQL",
+    "k8s": "Kubernetes",
+    "tf": "TensorFlow",
+    "sklearn": "Scikit-Learn",
+    "sentence-transformers": "Sentence Transformers",
+    "amazon web services": "AWS",
+    "google cloud platform": "GCP",
+    "microsoft azure": "Azure",
+    "natural language processing": "NLP",
+    "large language models": "LLM",
+    "restful api": "REST API",
+    "restful apis": "REST API"
+  }
+}

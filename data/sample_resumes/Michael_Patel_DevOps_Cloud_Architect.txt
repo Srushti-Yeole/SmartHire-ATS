@@ -1,0 +1,28 @@
+Michael Patel
+Email: michael.patel.infra@example.com | Phone: (312) 762-3341
+LinkedIn: linkedin.com/in/michaelpatel-cloud | GitHub: github.com/mpatel-cloud
+
+PROFESSIONAL SUMMARY
+Senior DevOps & Infrastructure Engineer with 7 years of hands-on experience provisioning multi-cloud environments, automating CI/CD workflows, and managing containerized Kubernetes clusters.
+
+TECHNICAL SKILLS
+AWS, Docker, Kubernetes, Terraform, Ansible, CI/CD, GitHub Actions, Jenkins, Prometheus, Grafana, Linux, Bash, Python, Helm
+
+WORK EXPERIENCE
+Staff Infrastructure Engineer | Enterprise Cloud Ops (2020 - Present)
+- Managed and maintained 15+ production Kubernetes clusters across AWS EKS using Helm and Terraform IaC.
+- Standardized CI/CD deployment workflows with GitHub Actions, accelerating release frequency by 3x.
+- Implemented comprehensive site reliability monitoring with Prometheus, Grafana, and Alertmanager, maintaining 99.99% uptime.
+
+Cloud Systems Administrator | Infotech Global (2017 - 2020)
+- Automated server provisioning and configuration using Ansible and Bash scripts across Linux environments.
+
+EDUCATION
+Bachelor of Science in Computer Information Systems | UIUC (2017)
+
+CERTIFICATIONS
+AWS Certified Solutions Architect - Professional, Certified Kubernetes Administrator (CKA), HashiCorp Certified Terraform Associate
+
+PROJECTS
+Multi-Region Kubernetes Failover: Automated Disaster Recovery setup with Terraform and Route 53.
+Zero-Trust GitOps Pipeline: Continuous deployment configuration with ArgoCD and Helm.

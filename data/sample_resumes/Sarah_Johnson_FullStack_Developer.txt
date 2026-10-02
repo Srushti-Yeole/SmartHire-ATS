@@ -1,0 +1,28 @@
+Sarah Johnson
+Email: sarah.johnson.dev@example.com | Phone: (206) 451-9872
+LinkedIn: linkedin.com/in/sarahj-dev | GitHub: github.com/sarahj-dev
+
+PROFESSIONAL SUMMARY
+Full Stack Software Engineer with 5 years of experience building modern responsive frontends with React & TypeScript, and high-performance backend APIs using Node.js and PostgreSQL.
+
+TECHNICAL SKILLS
+JavaScript, TypeScript, React, Node.js, Express.js, Python, PostgreSQL, Redis, Docker, Git, REST API, HTML5, CSS3, Tailwind CSS
+
+WORK EXPERIENCE
+Full Stack Software Engineer | CloudScale Inc. (2021 - Present)
+- Spearheaded frontend re-architecture to React 18, Next.js, and TypeScript, improving Core Web Vitals and load times by 40%.
+- Developed and optimized RESTful APIs and microservices with Node.js and PostgreSQL.
+- Implemented Redis caching layer reducing database read load by 55%.
+
+Frontend Developer | Nexus Labs (2019 - 2021)
+- Built interactive data visualization dashboards using React and Tailwind CSS.
+
+EDUCATION
+Bachelor of Science in Software Engineering | University of Washington (2019)
+
+CERTIFICATIONS
+AWS Certified Developer - Associate
+
+PROJECTS
+Collaborative Kanban Application: Real-time board built with React, WebSockets, and Node.js.
+E-Commerce Analytics Engine: Full-stack metrics dashboard powered by TypeScript and PostgreSQL.

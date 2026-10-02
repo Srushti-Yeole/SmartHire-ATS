@@ -1,0 +1,21 @@
+Job Title: Senior Machine Learning Engineer
+Department: AI & Machine Learning Research
+Experience Required: 5+ years of experience
+Education: Master's Degree or Bachelor's Degree in Computer Science, Data Science, or related field
+
+About the Role:
+We are seeking an experienced Senior Machine Learning Engineer to lead the architecture, training, and deployment of production NLP and large language model systems.
+
+Key Responsibilities:
+- Architect and deploy deep learning models for Natural Language Processing (NLP) and semantic retrieval.
+- Fine-tune state-of-the-art Transformer architectures using PyTorch and Hugging Face.
+- Deploy scalable inference microservices using FastAPI, Docker, and Kubernetes on AWS.
+- Design end-to-end continuous integration and deployment (CI/CD) pipelines for ML systems.
+- Collaborate across cross-functional teams to integrate generative AI models with core products.
+
+Required Qualifications & Skills:
+- 5+ years experience in Python and machine learning engineering.
+- Hands-on proficiency with PyTorch, Scikit-Learn, Transformers, and NLP libraries.
+- Strong experience with Docker, Kubernetes, and AWS cloud infrastructure.
+- Experience building RESTful APIs with FastAPI or Flask.
+- Solid foundation in SQL, Git, and automated CI/CD workflows.

@@ -1,0 +1,25 @@
+Emily Davis
+Email: emily.davis.analyst@example.com | Phone: (512) 634-1190
+LinkedIn: linkedin.com/in/emilydavis-data | GitHub: github.com/emilydavis-data
+
+PROFESSIONAL SUMMARY
+Detail-oriented Junior Data Analyst with 1.5 years of experience performing statistical modeling, data cleaning, and creating executive dashboards in Tableau and Python.
+
+TECHNICAL SKILLS
+Python, SQL, Pandas, NumPy, Tableau, Excel, Data Cleaning, Statistical Analysis, A/B Testing
+
+WORK EXPERIENCE
+Junior Data Analyst | MetricFlow Analytics (2023 - Present)
+- Extracted and transformed monthly business metrics from PostgreSQL databases using advanced SQL queries.
+- Built automated reporting pipelines using Python and Pandas, saving 15 hours of manual reporting per week.
+- Created executive KPI dashboards in Tableau used by leadership team for quarterly reviews.
+
+EDUCATION
+Bachelor of Science in Statistics | University of Texas at Austin (2023)
+
+CERTIFICATIONS
+Google Data Analytics Professional Certificate
+
+PROJECTS
+Customer Churn Prediction: Performed exploratory data analysis and feature engineering on telecom dataset using Python and Pandas.
+Sales Cohort Analysis: Visualized user retention patterns with SQL and Seaborn.

@@ -1,0 +1,19 @@
+Job Title: Full Stack Web Developer
+Department: Product Engineering
+Experience Required: 4+ years of experience
+Education: Bachelor's Degree in Computer Science or Software Engineering
+
+About the Role:
+We are looking for a versatile Full Stack Developer to build elegant web applications and robust cloud microservices.
+
+Key Responsibilities:
+- Build modern, accessible user interfaces using React, TypeScript, and Tailwind CSS.
+- Design and implement backend REST APIs with Node.js and PostgreSQL.
+- Optimize database queries, indexing, and Redis caching layers.
+- Write clean, maintainable code with unit tests and Dockerized deployment workflows.
+
+Required Qualifications & Skills:
+- 4+ years of full-stack engineering experience.
+- Strong proficiency in JavaScript, TypeScript, React, and Node.js.
+- Hands-on experience with PostgreSQL, Redis, and REST APIs.
+- Familiarity with Docker, Git, and Agile methodologies.

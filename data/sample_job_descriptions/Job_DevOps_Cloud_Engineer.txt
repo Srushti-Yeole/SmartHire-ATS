@@ -1,0 +1,19 @@
+Job Title: Cloud DevOps & SRE Engineer
+Department: Cloud Platform & Infrastructure
+Experience Required: 4+ years of cloud engineering experience
+Education: Bachelor's Degree or equivalent experience
+
+About the Role:
+Join our infrastructure team to design, automate, and maintain mission-critical cloud platform services.
+
+Key Responsibilities:
+- Provision infrastructure as code (IaC) using Terraform across AWS.
+- Administer, scale, and secure production Kubernetes clusters.
+- Construct CI/CD pipelines with GitHub Actions and Docker.
+- Implement observability, logging, and metrics using Prometheus, Grafana, and Linux systems.
+
+Required Qualifications & Skills:
+- 4+ years experience in Cloud & DevOps engineering.
+- Deep knowledge of AWS, Docker, Kubernetes, and Terraform.
+- Strong Linux administration and Bash or Python scripting skills.
+- Experience with Prometheus, Grafana, and CI/CD tools.

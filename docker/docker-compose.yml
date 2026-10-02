@@ -1,0 +1,41 @@
+version: "3.8"
+
+services:
+  backend:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.backend
+    container_name: ats_backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../data:/app/data
+      - ../reports:/app/reports
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    networks:
+      - ats-network
+
+  frontend:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.frontend
+    container_name: ats_frontend
+    ports:
+      - "8501:8501"
+    volumes:
+      - ../data:/app/data
+      - ../reports:/app/reports
+    environment:
+      - BACKEND_BASE_URL=http://backend:8000
+      - PYTHONUNBUFFERED=1
+    depends_on:
+      - backend
+    restart: unless-stopped
+    networks:
+      - ats-network
+
+networks:
+  ats-network:
+    driver: bridge

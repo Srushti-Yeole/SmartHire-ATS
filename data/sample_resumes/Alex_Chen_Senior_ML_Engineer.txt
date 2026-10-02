@@ -1,0 +1,29 @@
+Alex Chen
+Email: alex.chen.ml@example.com | Phone: (415) 892-4512
+LinkedIn: linkedin.com/in/alexchen-ml | GitHub: github.com/alexchen-ml
+
+PROFESSIONAL SUMMARY
+Accomplished Senior Machine Learning Engineer with 6+ years of experience designing and deploying deep learning and NLP architectures in cloud-native production environments.
+
+TECHNICAL SKILLS
+Python, PyTorch, TensorFlow, Scikit-Learn, Transformers, Hugging Face, NLP, LLM, FastAPI, Docker, Kubernetes, AWS, SQL, CI/CD, Git
+
+WORK EXPERIENCE
+Senior Machine Learning Engineer | DeepLogic AI (2021 - Present)
+- Designed and implemented transformer-based RAG and search pipelines using PyTorch and Hugging Face, boosting retrieval NDCG@10 by 28%.
+- Containerized and deployed high-throughput inference endpoints with FastAPI, Docker, and Kubernetes on AWS EKS.
+- Built end-to-end continuous model training pipelines with GitHub Actions and MLflow.
+
+Machine Learning Engineer | DataVision Systems (2018 - 2021)
+- Developed production NLP classifiers and recommendation engines using Scikit-Learn and PyTorch.
+- Reduced inference latency by 45% via ONNX model quantization.
+
+EDUCATION
+Master of Science in Computer Science | Stanford University (2018)
+
+CERTIFICATIONS
+AWS Certified Machine Learning - Specialty, TensorFlow Developer Certificate
+
+PROJECTS
+Real-Time Semantic Document Search: Built a dense vector retrieval system using Sentence-Transformers, FastAPI, and ChromaDB.
+Autonomous Code Review Bot: Implemented an automated LLM reviewer using LangChain and GitHub Actions.
